@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(3, 175, 118);
+}
+h1{color:black;
+text-align: center;}
+div{
+    margin: 0 auto;
+    width: 450px;
+    height: 700px;
+}
+<input{
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: rgb(25, 162, 25);
+    font-weight: bold;
+    color: white;
+}
+button{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+::placeholder{
+    color: black;
+    font-size: 10px;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+    color: rgb(24, 47, 198);
+}
+img{
+    width:15px;
+    height: 15px;
+}
